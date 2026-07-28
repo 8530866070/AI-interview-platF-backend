@@ -29,4 +29,11 @@ public class User {
 	    @Enumerated(EnumType.STRING)
 	    private Role role;
 
+		public static Object builder() {
+			// TODO Auto-generated method stub
+			return null;
+		}
+
+		
+
 }
